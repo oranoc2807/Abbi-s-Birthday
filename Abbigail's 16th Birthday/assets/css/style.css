@@ -1,0 +1,39 @@
+/* styles.css */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffcccc; /* Pink background color */
+}
+
+header {
+    background-color: #ff99cc; /* Lighter pink header background color */
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff; /* White content background color */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Countdown section styling */
+#countdown {
+    text-align: center;
+    margin-top: 30px;
+    padding: 20px;
+    background-color: #ff99cc; /* Lighter pink background color for countdown */
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+#timer {
+    font-size: 24px;
+    color: #fff; /* White text color for countdown */
+}
+
+}
